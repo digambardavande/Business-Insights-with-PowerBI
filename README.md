@@ -48,7 +48,7 @@ Categories like Labels, Fasteners, and Envelopes show minimal contribution
 Sales vary significantly across regions, customer segments, and ship modes
 
 📸 Dashboard Preview
-(Add screenshots or GIFs of your Power BI dashboard here)
+https://github.com/digambardavande/Business-Insights-with-PowerBI/blob/main/Sub-Category%20Wise%20Sales%20Performance.PNG
 
 🔍 Features Highlighted
 Horizontal bar charts for sub-category sales
