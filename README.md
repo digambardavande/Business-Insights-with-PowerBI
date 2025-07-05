@@ -1,4 +1,5 @@
 # Business-Insights-with-PowerBI
+
 📊 Superstore Sales Insights Dashboard
 📌 Project Overview
 The Superstore Sales Insights Dashboard is a visually compelling and interactive Power BI report designed to analyze and showcase business performance using the Global Superstore dataset (sourced from Kaggle). The dashboard enables quick exploration of sales trends, category performance, and regional contributions across product segments.
@@ -48,7 +49,7 @@ Categories like Labels, Fasteners, and Envelopes show minimal contribution
 Sales vary significantly across regions, customer segments, and ship modes
 
 📸 Dashboard Preview
-https://github.com/digambardavande/Business-Insights-with-PowerBI/blob/main/Sub-Category%20Wise%20Sales%20Performance.PNG
+(https://github.com/digambardavande/Business-Insights-with-PowerBI/blob/main/Sub-Category%20Wise%20Sales%20Performance.PNG)
 
 🔍 Features Highlighted
 Horizontal bar charts for sub-category sales
@@ -66,7 +67,6 @@ Open .pbix file using Power BI Desktop
 
 Explore insights using slicers and visuals
 
-👤 Author
-Digambar Davande
+👤 Digambar Davande
 📧 digambard555@gmail.com
 🔗 https://www.linkedin.com/in/digambar-davande/
